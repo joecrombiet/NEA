@@ -1,0 +1,1 @@
+CREATE TABLE players (FirstName VARCHAR(30), LastName VARCHAR(30), Position VARCHAR(30), Team VARCHAR(30));
